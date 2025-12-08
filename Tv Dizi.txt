@@ -1,0 +1,6 @@
+
+#EXTM3U
+#EXTINF:0 type="video" tvg-logo="https://im.showtv.com.tr/2025/11/19/ver1763545212/3838936_05555ba0dcd88a1dfcc045ec96bdeae2.jpg" group-title="TV DİZİLERİ",Rüya Gibi (Show)
+https://video.twimg.com/amplify_video/1995979288370200578/pl/70dlrgU7SpQ9ko_j.m3u8?variant_version=1&tag=21
+#EXTINF:0 type="video" tvg-logo="https://static.boxofficeturkiye.com/movie/poster/235x336/13/2017513-68843185.jpg" group-title="DRAM",Lefter: Bir Ordinaryüs Hikayesi (2025)
+https://s3-hls1-cdn58.strmupcdn.cc/hls/OFg7Ls63qzfQD756ye9ur3vBe5SYdp/master.m3u8?token=c0e6fc65c53a637db3abb779d3a27f78-1764996966-176.33.65.227-f305dfc025739e61f3d152205dba81a8a13827917e47a387bfd349b5d1a53a7e
