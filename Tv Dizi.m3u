@@ -22,16 +22,27 @@ https://video.twimg.com/amplify_video/1996335567622082560/pl/T0hy0LzipLmiEEjN.m3
 https://video.twimg.com/amplify_video/1996348129159868417/pl/jyde-8UQhoOT2rvE.m3u8?variant_version=1&tag=21
 #EXTINF:0 type="video" tvg-logo="https://tr.web.img4.acsta.net/r_1920_1080/img/a2/54/a254705556e4ef07f86940b9242b2bb4.jpg" group-title="ÇARŞAMBA DİZİLERİ",Sakıncalı (Now)
 https://video.twimg.com/amplify_video/1996326117620203520/pl/BEUXkjs40E52CpAe.m3u8?variant_version=1&tag=21
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:0 type="video" tvg-logo="https://1001dizi.net/images2/dizi/d/halef.jpg" group-title="PERŞEMBE DİZİLERİ",Halef (Now)
+https://video.twimg.com/amplify_video/1996687878022184960/pl/0PatDLgoTzUS17Wu.m3u8?variant_version=1&tag=21
+#EXTINF:0 type="video" tvg-logo="https://1001dizi.net/images2/dizi/d/veliaht.jpg" group-title="PERŞEMBE DİZİLERİ",Veliaht (Show)
+https://video.twimg.com/amplify_video/1996699036619866112/pl/x505Q0VE7xIbitTZ.m3u8?variant_version=1&tag=21
+#EXTINF:0 type="video" tvg-logo="https://1001dizi.net/images2/dizi/d/arka-sokaklar.jpg" group-title="CUMA DİZİLERİ",Arka Sokaklar (Kanal D)
+https://video.twimg.com/amplify_video/1997047392911122432/pl/-V3DDR5j2JmX7ZgT.m3u8?tag=21
+#EXTINF:0 type="video" tvg-logo="https://1001dizi.net/images2/dizi/d/kizilcik-serbeti.jpg" group-title="CUMA DİZİLERİ",Kızılcık Şerbeti (Show)
+https://video.twimg.com/amplify_video/1997047403543666688/pl/XTDZUiQxeqeUTQi8.m3u8?tag=21
+#EXTINF:0 type="video" tvg-logo="https://1001dizi.net/images2/dizi/d/tasacak-bu-deniz.jpg" group-title="CUMA DİZİLERİ",Taşacak Bu Deniz (Trt1)
+https://eu1.tabii.com/apigateway/pbr/v1/media/588979/588978.m3u8
+#EXTINF:0 type="video" tvg-logo="https://1001dizi.net/images2/dizi/d/ben-leman.jpg" group-title="CUMARTESİ DİZİLERİ",Ben Leman (Now)
+https://video.twimg.com/amplify_video/1997436323435601920/pl/4-oEDP4PHH3DMqDT.m3u8?variant_version=1&tag=21
+#EXTINF:0 type="video" tvg-logo="https://1001dizi.net/images2/dizi/d/gonul-dagi.jpg" group-title="CUMARTESİ DİZİLERİ",Gönül Dağı (Trt1)
+https://eu1.tabii.com/apigateway/pbr/v1/media/588985/588982.m3u8
+#EXTINF:0 type="video" tvg-logo="https://1001dizi.net/images2/dizi/d/guller-ve-gunahlar.jpg" group-title="CUMARTESİ DİZİLERİ",Güller ve Günahlar (Kanal D)
+https://video.twimg.com/amplify_video/1997436448530628608/pl/0r66N_pijY5SB9Qo.m3u8?variant_version=1&tag=21
+#EXTINF:0 type="video" tvg-logo="https://1001dizi.net/images2/dizi/d/bahar.jpg" group-title="PAZAR DİZİLERİ",Bahar (Show)
+https://video.twimg.com/amplify_video/1997785361632661504/pl/Ysx343FhnTneSXlT.m3u8?variant_version=1&tag=21
+#EXTINF:0 type="video" tvg-logo="https://1001dizi.net/images2/dizi/d/sahtekarlar.jpg" group-title="PAZAR DİZİLERİ",Sahtekarlar (Now)
+https://video.twimg.com/amplify_video/1997773943696973824/pl/88HYPlWY5htj8638.m3u8?variant_version=1&tag=21
+#EXTINF:0 type="video" tvg-logo="https://cdn-i.pr.trt.com.tr/trt1/webp/w576/q75/ftp-trt1-trt1-public-dm_upload-modul11-df177814-2be0-490f-9ff9-b9146041a6c4png-21288838.png" group-title="PAZAR DİZİLERİ",Teşkilat (Trt1)
+https://eu1.tabii.com/apigateway/pbr/v1/media/589052/589050.m3u8
 
 
