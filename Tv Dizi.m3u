@@ -9,7 +9,7 @@ https://video.twimg.com/amplify_video/1998489694099632128/pl/-QlCkP_hibOfC1M1.m3
 https://video.twimg.com/amplify_video/1998497600140386304/pl/sA4MIvTd6z7sVkk5.m3u8?variant_version=1&tag=21
 #EXTINF:0 type="video" tvg-logo="https://1001dizi.net/images2/dizi/d/kral-kaybederse.jpg" group-title="SALI DİZİLERİ",Kral Kaybederse (Star-Final)
 https://video.twimg.com/amplify_video/1998523390575960064/pl/uNUIeWcvjzVPshah.m3u8?variant_version=1&tag=21
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5MYvRuy1M2s/hqdefault.jpg" group-title="SALİ DİZİLERİ",Youtube Dizi
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5MYvRuy1M2s/hqdefault.jpg" group-title="SALI DİZİLERİ",Mehmed
 https://www.youtube.com/watch?v=5MYvRuy1M2s
 #EXTINF:0 type="video" tvg-logo="https://im.showtv.com.tr/2025/11/19/ver1763545212/3838936_05555ba0dcd88a1dfcc045ec96bdeae2.jpg" group-title="SALI DİZİLERİ",Rüya Gibi (Show)
 https://video.twimg.com/amplify_video/1998521418917572608/pl/znfXB5Wwrj1fPPmi.m3u8?variant_version=1&tag=21
@@ -43,6 +43,7 @@ https://video.twimg.com/amplify_video/1997785361632661504/pl/Ysx343FhnTneSXlT.m3
 https://video.twimg.com/amplify_video/1997773943696973824/pl/88HYPlWY5htj8638.m3u8?variant_version=1&tag=21
 #EXTINF:0 type="video" tvg-logo="https://cdn-i.pr.trt.com.tr/trt1/webp/w576/q75/ftp-trt1-trt1-public-dm_upload-modul11-df177814-2be0-490f-9ff9-b9146041a6c4png-21288838.png" group-title="PAZAR DİZİLERİ",Teşkilat (Trt1)
 https://eu1.tabii.com/apigateway/pbr/v1/media/589052/589050.m3u8
+
 
 
 
