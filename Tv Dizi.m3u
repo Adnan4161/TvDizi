@@ -11,7 +11,7 @@ https://video.twimg.com/amplify_video/1998497600140386304/pl/sA4MIvTd6z7sVkk5.m3
 #EXTINF:0 type="video" tvg-logo="https://1001dizi.net/images2/dizi/d/kral-kaybederse.jpg" group-title="SALI DİZİLERİ",Kral Kaybederse (Star-Final)
 https://video.twimg.com/amplify_video/1998523390575960064/pl/uNUIeWcvjzVPshah.m3u8?variant_version=1&tag=21
 #EXTINF:0 type="video" tvg-logo="https://static.boxofficeturkiye.com/movie/poster/full/48/1948-76741586.jpg" group-title="SALI DİZİLERİ",Mehmed Fetihler Sultanı (Trt1)
-https://youtu.be/STMYbRuylUM?si=mmdNowaUe6kkTNj-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/STMYbRuylUM?si=mmdNowaUe6kkTNj-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #EXTINF:0 type="video" tvg-logo="https://im.showtv.com.tr/2025/11/19/ver1763545212/3838936_05555ba0dcd88a1dfcc045ec96bdeae2.jpg" group-title="SALI DİZİLERİ",Rüya Gibi (Show)
 https://video.twimg.com/amplify_video/1998521418917572608/pl/znfXB5Wwrj1fPPmi.m3u8?variant_version=1&tag=21
 #EXTINF:0 type="video" tvg-logo="https://1001dizi.net/images2/dizi/d/esref-ruya.jpg" group-title="ÇARŞAMBA DİZİLERİ",Eşref Rüya (Kanal D)
@@ -44,6 +44,7 @@ https://video.twimg.com/amplify_video/1997785361632661504/pl/Ysx343FhnTneSXlT.m3
 https://video.twimg.com/amplify_video/1997773943696973824/pl/88HYPlWY5htj8638.m3u8?variant_version=1&tag=21
 #EXTINF:0 type="video" tvg-logo="https://cdn-i.pr.trt.com.tr/trt1/webp/w576/q75/ftp-trt1-trt1-public-dm_upload-modul11-df177814-2be0-490f-9ff9-b9146041a6c4png-21288838.png" group-title="PAZAR DİZİLERİ",Teşkilat (Trt1)
 https://eu1.tabii.com/apigateway/pbr/v1/media/589052/589050.m3u8
+
 
 
 
