@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:0 type="video" tvg-logo="https://1001dizi.net/images2/dizi/d/cennetin-cocuklari.jpg" group-title="PAZARTESİ DİZİLERİ",Cennetin Çocukları (Trt1)
-https://eu1.tabii.com/apigateway/pbr/v1/media/589699/589698.m3u8
+https://eu1.tabii.com/apigateway/pbr/v1/media/592665/592664.m3u8
 #EXTINF:0 type="video" tvg-logo="https://static.boxofficeturkiye.com/movie/poster/full/85/2085-69525617.jpg" group-title="PAZARTESİ DİZİLERİ",Uzak şehir (Kanal D)
-https://video.twimg.com/amplify_video/1998133521752215552/pl/UR_AwkGgxE52z3iN.m3u8?tag=21
+https://video.twimg.com/amplify_video/2000671670277709827/pl/pA2yrqnG7_tiexgH.m3u8?tag=21
 #EXTINF:0 type="video" tvg-logo="https://static.boxofficeturkiye.com/movie/poster/full/63/2163-76137609.jpg" group-title="SALI DİZİLERİ",Gözleri Karadeniz (Atv)
 https://video.twimg.com/amplify_video/1998489694099632128/pl/-QlCkP_hibOfC1M1.m3u8?variant_version=1&tag=21
 #EXTINF:0 type="video" tvg-logo="https://1001dizi.net/images2/dizi/d/kiskanmak.jpg" group-title="SALI DİZİLERİ",Kıskanmak (Now)
@@ -41,6 +41,7 @@ https://video.twimg.com/amplify_video/2000317159566626826/pl/AdSjlbTiB6lsBiv1.m3
 https://video.twimg.com/amplify_video/2000322432507293703/pl/KC0b5TPJQCE3yHtu.m3u8?variant_version=1&tag=21
 #EXTINF:0 type="video" tvg-logo="https://cdn-i.pr.trt.com.tr/trt1/webp/w576/q75/ftp-trt1-trt1-public-dm_upload-modul11-df177814-2be0-490f-9ff9-b9146041a6c4png-21288838.png" group-title="PAZAR DİZİLERİ",Teşkilat (Trt1)
 https://www.youtube.com/watch?v=d_ClCQ20G0o
+
 
 
 
