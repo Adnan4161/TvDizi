@@ -30,15 +30,16 @@ https://video.twimg.com/amplify_video/2019879055273664512/pl/I2yhYnfmUfYz46dV.m3
 #EXTINF:0 type="video" tvg-logo="https://1001dizi.net/images2/dizi/d/tasacak-bu-deniz.jpg" group-title="CUMA DİZİLERİ",Taşacak Bu Deniz (Trt1)
 https://eu1.tabii.com/apigateway/pbr/v1/media/615120/615118.m3u8
 #EXTINF:0 type="video" tvg-logo="https://1001dizi.net/images2/dizi/d/gonul-dagi.jpg" group-title="CUMARTESİ DİZİLERİ",Gönül Dağı (Trt1)
-https://cms-tabii-public-video.tabii.com/vod/1f103492-f8ad-67e8-bac0-e372081cb622/V0/packages/3237227047167068234/media-4/stream.m3u8
+https://eu1.tabii.com/apigateway/pbr/v1/media/615088/615086.m3u8
 #EXTINF:0 type="video" tvg-logo="https://1001dizi.net/images2/dizi/d/guller-ve-gunahlar.jpg" group-title="CUMARTESİ DİZİLERİ",Güller ve Günahlar (Kanal D)
-https://video.twimg.com/amplify_video/2020237674691354624/pl/mp4a/128000/qyw5Ti_rRckMwHko.m3u8
+https://video.twimg.com/amplify_video/2020237674691354624/pl/0BnQgEEH2_K6Ey7u.m3u8?tag=21
 #EXTINF:0 type="video" tvg-logo="https://im.showtv.com.tr/2025/11/19/ver1763545212/3838936_05555ba0dcd88a1dfcc045ec96bdeae2.jpg" group-title="PAZAR DİZİLERİ",Rüya Gibi (Show)
 https://video.twimg.com/amplify_video/2018067225572204544/pl/59nkxXvcWvZGod7z.m3u8?tag=21
 #EXTINF:0 type="video" tvg-logo="https://1001dizi.net/images2/dizi/d/sahtekarlar.jpg" group-title="PAZAR DİZİLERİ",Sahtekarlar (Now)
 https://video.twimg.com/amplify_video/2018071921120727040/pl/3mLHMRhkdIaS-vDq.m3u8?tag=21
 #EXTINF:0 type="video" tvg-logo="https://cdn-i.pr.trt.com.tr/trt1/webp/w576/q75/ftp-trt1-trt1-public-dm_upload-modul11-df177814-2be0-490f-9ff9-b9146041a6c4png-21288838.png" group-title="PAZAR DİZİLERİ",Teşkilat (Trt1)
 https://eu1.tabii.com/apigateway/pbr/v1/media/613533/613532.m3u8
+
 
 
 
