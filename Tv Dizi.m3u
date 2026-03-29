@@ -31,14 +31,15 @@ https://eu1.tabii.com/apigateway/pbr/v1/media/630450/630447.m3u8
 https://eu1.tabii.com/apigateway/pbr/v1/media/630461/630460.m3u8
 #EXTINF:0 type="video" tvg-logo="https://1001dizi.net/images2/dizi/d/guller-ve-gunahlar.jpg" group-title="CUMARTESİ DİZİLERİ",Güller ve Günahlar (Kanal D)
 https://video.twimg.com/amplify_video/2037997297884344320/pl/_V4GOPudjzfjD5m5.m3u8?tag=21
-#EXTINF:0 type="video" tvg-logo="https://www.ddizi.im/diziresimleri/ayniyagmuraltindakapak-min.jpg" group-title="PAZAR DİZİLERİ",Aynı Yağmur Altında (Atv)
-https://video.twimg.com/amplify_video/2033288527715184640/pl/aA0rvi1kx1_Fe5RV.m3u8
-#EXTINF:0 type="video" tvg-logo="https://1001dizi.net/images2/dizi_k/desk/doktor.jpg" group-title="PAZAR DİZİLERİ",Doktor Başka Hayatta (Now)
-https://video.twimg.com/amplify_video/2035811527496716289/pl/JpDOd7cZhcqdndIi.m3u8?tag=21
-#EXTINF:0 type="video" tvg-logo="https://cdn-i.pr.trt.com.tr/trt1/webp/w576/q75/ftp-trt1-trt1-public-dm_upload-modul11-df177814-2be0-490f-9ff9-b9146041a6c4png-21288838.png" group-title="PAZAR DİZİLERİ",Teşkilat (Trt1)
-https://eu1.tabii.com/apigateway/pbr/v1/media/628502/628499.m3u8
+#EXTINF:0 type="video" tvg-logo="https://www.ddizi.im/diziresimleri/ayniyagmuraltindakapak-min.jpg" group-title="PAZAR DİZİLERİ",Aynı Yağmur Altında Final(Atv)
+https://video.twimg.com/amplify_video/2038357971206344704/pl/ZCznseZbuDUgYMDO.m3u8?tag=21
 #EXTINF:0 type="video" tvg-logo="https://1001dizi.net/images2/haber/cirkin-afis-2.jpg" group-title="PAZAR DİZİLERİ",Çirkin (Star)
-https://www.youtube.com/watch?v=wF-qXz1nP20
+https://video.twimg.com/amplify_video/2038341777435025408/pl/wqiswGW1YfLbts3u.m3u8?tag=21
+#EXTINF:0 type="video" tvg-logo="https://1001dizi.net/images2/dizi_k/desk/doktor.jpg" group-title="PAZAR DİZİLERİ",Doktor: Başka Hayatta (Now)
+https://video.twimg.com/amplify_video/2038352736614264832/pl/hz2cJYNF0-voLx21.m3u8?tag=21
+#EXTINF:0 type="video" tvg-logo="https://cdn-i.pr.trt.com.tr/trt1/webp/w576/q75/ftp-trt1-trt1-public-dm_upload-modul11-df177814-2be0-490f-9ff9-b9146041a6c4png-21288838.png" group-title="PAZAR DİZİLERİ",Teşkilat (Trt1)
+https://eu1.tabii.com/apigateway/pbr/v1/media/630484/630481.m3u8
+
 
 
 #EXTINF:0 type="video" tvg-logo="https://filmhane.art/uploads/series/original/konusanlar-8063.webp" group-title="TALK SHOW",Konuşanlar (Son Bölüm)
