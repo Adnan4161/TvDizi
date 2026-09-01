@@ -9,6 +9,8 @@ https://video.twimg.com/amplify_video/2061550719472111617/pl/FTZLgZlEzlzopHYg.m3
 https://video.twimg.com/amplify_video/2064454663290679296/pl/h06wmx1284OXH_a7.m3u8?tag=27
 #EXTINF:-1 group-title="SALI DİZİLERİ" tvg-logo="https://static.boxofficeturkiye.com/movie/poster/full/48/1948-76741586.jpg", Mehmed Fetihler Sultanı (Trt1)
 https://eu1.tabii.com/apigateway/pbr/v1/media/654556/654555.m3u8
+#EXTINF:-1 group-title="SALI DİZİLERİ" tvg-logo="https://tvdiziler.tv/dizi/tuzlu-kahve-son-bolum-izle", Tuzlu Kahve (Star)
+https://startv-p3.mncdn.com/smil:tuzlukahve_yakinda_vers2_dd_smil.smil/playlist.m3u8?st=IfBEqgSHpNCoIiWH6kx1uA&e=1788335734
 #EXTINF:0 type="video" tvg-logo="https://tvdiziler.tv/uploads/series/doganin-kanunu.jpg" group-title="ÇARŞAMBA DİZİLERİ",Doğanın Kanunu (Star)
 https://video.twimg.com/amplify_video/2092720408504029184/pl/rfx2Oa_HmTG9SUtQ.m3u8?tag=29
 #EXTINF:0 type="video" tvg-logo="https://1001dizi.net/images2/dizi/d/esref-ruya.jpg" group-title="ÇARŞAMBA DİZİLERİ",Eşref Rüya Final (Kanal D)
@@ -30,7 +32,7 @@ https://video.twimg.com/amplify_video/2057926977953075201/pl/-UkQ7ZEr7Hd9EJrJ.m3
 #EXTINF:0 type="video" tvg-logo="https://1001dizi.net/images2/dizi/d/tasacak-bu-deniz.jpg" group-title="CUMA DİZİLERİ",Taşacak Bu Deniz (Trt1)
 https://eu1.tabii.com/apigateway/pbr/v1/media/653404/653401.m3u8
 #EXTINF:0 type="video" tvg-logo="https://1001dizi.net/images2/dizi/d/gonul-dagi.jpg" group-title="CUMARTESİ DİZİLERİ",Gönül Dağı (Trt1)
-https://eu1.tabii.com/apigateway/pbr/v1/media/653409/653408.m3u8
+https://www.youtube.com/watch?v=B7dEXHpUjyA
 #EXTINF:0 type="video" tvg-logo="https://1001dizi.net/images2/dizi/d/guller-ve-gunahlar.jpg" group-title="CUMARTESİ DİZİLERİ",Güller ve Günahlar (Kanal D)
 https://video.twimg.com/amplify_video/2065905833905418241/pl/-SGSoC_JApUZ8otV.m3u8?tag=27
 #EXTINF:-1 tvg-logo="https://media.startv.com.tr/star-tv//images/tolgshow_web_1920x1080_p3.jpg" group-title="CUMARTESİ DİZİLERİ", Tolgshow Yıldızlar - 2026 Son Bölüm
