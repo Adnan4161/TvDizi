@@ -5,10 +5,12 @@ https://video.twimg.com/amplify_video/2102142826670592000/pl/A7xKpW1qQ-qV0Nsk.m3
 https://eu1.tabii.com/apigateway/pbr/v1/media/693435/693434.m3u8
 #EXTINF:0 type="video" tvg-logo="https://static.boxofficeturkiye.com/movie/poster/full/85/2085-69525617.jpg" group-title="PAZARTESİ DİZİLERİ",Uzak şehir (Kanal D)
 https://video.twimg.com/amplify_video/2102139603209555968/pl/Ge3brqoP0CcGMpEZ.m3u8?tag=29
+#EXTINF:-1 group-title="SALI DİZİLERİ" tvg-logo="https://nqg6bkpsnhen.merlincdn.net//Programlar/Diger/diger-resim-8f2c9088-3051-45d8-b4b2-71e9282841b5.jpg",Anne Yarısı (Now)
+https://video.twimg.com/amplify_video/2102478742429818880/pl/mCTqMlJ3LuxY_mGj.m3u8?tag=29
 #EXTINF:0 type="video" tvg-logo="https://iaatv.tmgrup.com.tr/35dc3e/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/album/2025/11/24/atvnin-yeni-dizisi-abi-ne-zaman-baslayacak-1763991200114.jpg" group-title="SALI DİZİLERİ",A.B.İ. (Atv)
 https://video.twimg.com/amplify_video/2099968293998100480/pl/7ttMjDoDeuPgfuWE.m3u8?tag=29
 #EXTINF:-1 group-title="SALI DİZİLERİ" tvg-logo="https://1001dizi.net/images2/dizi/d/haysiyet.jpg",Haysiyet (Kanal D)
-https://video.twimg.com/amplify_video/2099954569191075840/pl/0MNB3YCtGW2PZf3g.m3u8?tag=29
+https://video.twimg.com/amplify_video/2102497081722093568/pl/bAEyoSKgY1WHo5ah.m3u8?tag=29
 #EXTINF:-1 group-title="SALI DİZİLERİ" tvg-logo="https://static.boxofficeturkiye.com/movie/poster/full/48/1948-76741586.jpg", Mehmed Fetihler Sultanı (Trt1)
 https://eu1.tabii.com/apigateway/pbr/v1/media/691273/691272.m3u8
 #EXTINF:-1 group-title="SALI DİZİLERİ" tvg-logo="https://dizihabercisi.com/wp-content/uploads/2026/07/Tuzlu-Kahve-dizisi-oyunculari-kimler.webp", Tuzlu Kahve (Star)
