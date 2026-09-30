@@ -7,7 +7,7 @@ https://eu1.tabii.com/apigateway/pbr/v1/media/695391/695390.m3u8
 https://video.twimg.com/amplify_video/2104672209549627393/pl/BEuwpj1GsipJrbTB.m3u8?tag=29
 #EXTINF:0 type="video" tvg-logo="https://iaatv.tmgrup.com.tr/35dc3e/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/album/2025/11/24/atvnin-yeni-dizisi-abi-ne-zaman-baslayacak-1763991200114.jpg" group-title="SALI DİZİLERİ",A.B.İ. (Atv)
 https://video.twimg.com/amplify_video/2105042358790201345/pl/AxpCyspNM_w6Udx9.m3u8?tag=29
-#EXTINF:0 group-title="SALI DİZİLERİ" type="video" tvg-logo="https://yapimlar.com/wp-content/uploads/Anne-Yarisi-342x513.webp",Anne Yarısı (Now)
+#EXTINF:0 type="video" tvg-logo="https://yapimlar.com/wp-content/uploads/Anne-Yarisi-342x513.webp" group-title="SALI DİZİLERİ",Anne Yarısı (Now)
 https://video.twimg.com/amplify_video/2105029117351473152/pl/pOkcwQiQ0637iZNF.m3u8?tag=29
 #EXTINF:-1 group-title="SALI DİZİLERİ" tvg-logo="https://1001dizi.net/images2/dizi/d/haysiyet.jpg",Haysiyet (Kanal D)
 https://video.twimg.com/amplify_video/2105033330664022016/pl/8tK7YLE-a6mJPplD.m3u8?tag=29
