@@ -17,6 +17,8 @@ https://video.twimg.com/amplify_video/2105033330664022016/pl/8tK7YLE-a6mJPplD.m3
 https://eu1.tabii.com/apigateway/pbr/v1/media/695586/695584.m3u8
 #EXTINF:-1 group-title="SALI DİZİLERİ" tvg-logo="https://dizihabercisi.com/wp-content/uploads/2026/07/Tuzlu-Kahve-dizisi-oyunculari-kimler.webp", Tuzlu Kahve (Star)
 https://video.twimg.com/amplify_video/2105037850102169600/pl/6FcHyd1xL23_LsVP.m3u8?tag=29
+#EXTINF:0 type="video" tvg-logo="https://images.justwatch.com/poster/327332468/s332/masterchef-turkiye.avif" group-title="SALI DİZİLERİ",Masterchef Türkiye (Tv8)
+https://www.youtube.com/watch?v=pHW5JDK1oBU
 #EXTINF:0 type="video" tvg-logo="https://episodedergi.com/wp-content/uploads/2026/09/ask-ve-taht-in-afisi-yayinlandi-768x1313.webp" group-title="ÇARŞAMBA DİZİLERİ",Aşk ve Taht (Atv)
 https://video.twimg.com/amplify_video/2105403766690189312/pl/oSU-_62Q2c_dbYod.m3u8?tag=29
 #EXTINF:0 type="video" tvg-logo="https://1001dizi.net/images2/dizi/d/sevdan-bir-ates.jpg" group-title="ÇARŞAMBA DİZİLERİ",Sevdan Bir Ateş (Show)
